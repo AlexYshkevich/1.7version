@@ -1,1 +1,1 @@
-# https://travis-ci.org/AlexYshkevich/1.7version.svg?branch=master
+# travis-ci.org/AlexYshkevich/1.7version.svg?branch=master
